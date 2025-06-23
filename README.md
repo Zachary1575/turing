@@ -5,5 +5,6 @@
 <a name="readme-top"></a>
 
 # Turing Engine α
-A fun little math engine akin to a Computer Algebra System (CAS). Version Alpha. Created this this repo on Turing's Birthday.
+A fun little math engine akin to a Computer Algebra System (CAS). 
+Version Alpha. Created this this repo on Turing's Birthday.
 </div>
